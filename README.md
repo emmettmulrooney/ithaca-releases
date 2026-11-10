@@ -1,3 +1,3 @@
 # Ithaca
 
-Downloads for Ithaca, the Phemus browser. See https://phemus.up.railway.app/ithaca
+Downloads for Ithaca, the Phemus browser. See https://phemus-production.up.railway.app/ithaca
